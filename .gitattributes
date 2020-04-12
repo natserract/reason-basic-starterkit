@@ -1,0 +1,2 @@
+* linguist-detectable=false 
+*.re linguist-detectable=true 
