@@ -1,6 +1,5 @@
 # ASCII Generator
-Convert chars input to ASCII with ReasonMl
-![](https://github.com/alfinsuryaS/ascii-generator/edit/master/screenshot.png)
+Convert chars input to ASCII with ReasonML
 
 ## Run
 
