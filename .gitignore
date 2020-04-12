@@ -6,3 +6,5 @@ npm-debug.log
 /node_modules/
 /bundleOutput/
 /build/
+# Local Netlify folder
+.netlify
