@@ -2,8 +2,8 @@
 
 var React = require("react");
 var ReactDOMRe = require("reason-react/src/ReactDOMRe.js");
-var App$ReasonReactExamples = require("./app/app.bs.js");
+var App$ReasonReactBasicStarterkit = require("./app/app.bs.js");
 
-ReactDOMRe.renderToElementWithId(React.createElement(App$ReasonReactExamples.make, { }), "__reason");
+ReactDOMRe.renderToElementWithId(React.createElement(App$ReasonReactBasicStarterkit.make, { }), "__reason");
 
 /*  Not a pure module */
