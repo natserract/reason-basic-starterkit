@@ -1,6 +1,5 @@
 # Reason Basic Starter Kit
-Convert chars input to ASCII with ReasonML
-<img src="https://github.com/alfinsuryaS/ascii-generator/blob/master/screenshot.png" width="100%"/>
+With Webpack Configuration
 
 ## Run
 
