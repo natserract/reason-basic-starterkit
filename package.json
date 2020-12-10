@@ -4,12 +4,10 @@
   "scripts": {
     "build:prod": "bsb -make-world && webpack --mode production",
     "build:dev": "bsb -make-world -w -ws _ && bsb -clean-world",
-    "clean": "bsb -clean-world",
     "start:dev": "npm-run-all --parallel build:dev webpack:dev",
     "webpack:dev": "webpack-dev-server",
     "start:prod": "npm-run-all --parallel server build:prod",
-    "clean:all": "rm -rf ./build",
-    "server": "moduleserve ./ --port 8000"
+    "clean": "rm -rf ./build"
   },
   "keywords": [
     "BuckleScript",
